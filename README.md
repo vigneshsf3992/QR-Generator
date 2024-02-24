@@ -1,3 +1,3 @@
-https://main--poetic-piroshki-c1e034.netlify.app/
+https://v1-qr-generator.netlify.app/
 
 Deployed this project using netlify
